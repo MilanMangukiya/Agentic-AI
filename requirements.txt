@@ -1,0 +1,12 @@
+langchain
+pydantic
+ipykernel
+langchain-community
+python-dotenv
+langchain
+langchain-openai
+langchain-groq
+langchain_core
+defusedxml
+pypdf
+bs4
