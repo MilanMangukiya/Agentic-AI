@@ -15,3 +15,4 @@ langchain_huggingface
 faiss-cpu
 wikipedia
 youtube_search
+langchain-pinecone
