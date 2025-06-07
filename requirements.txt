@@ -13,3 +13,5 @@ pymupdf
 wikipedia
 langchain_huggingface
 faiss-cpu
+wikipedia
+youtube_search
