@@ -17,3 +17,4 @@ wikipedia
 youtube_search
 langchain-pinecone
 langgraph
+langchain_google_genai
