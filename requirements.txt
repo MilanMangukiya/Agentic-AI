@@ -19,3 +19,4 @@ langchain-pinecone
 langgraph
 langchain_google_genai
 chromadb
+duckduckgo_search
