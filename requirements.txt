@@ -21,3 +21,4 @@ langchain_google_genai
 chromadb
 duckduckgo_search
 yfinance
+langchain_experimental
